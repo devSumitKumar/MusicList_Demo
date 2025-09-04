@@ -1,0 +1,7 @@
+# ninja log v5
+8	355	0	D:/POC/React-Learnings/React-Native/samplecodes/AwesomeProject/android/app/.cxx/Debug/483j5d12/x86/CMakeFiles/cmake.verify_globs	ba659546a5d69601
+1	15688	7690428792015110	CMakeFiles/appmodules.dir/0504d9cb726f41b04c99cfbb6e60fd27/AwesomeProject/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	b8b62a9b41a783b6
+5	17016	7690428805140025	CMakeFiles/appmodules.dir/OnLoad.cpp.o	36b07fc4d9949557
+17017	17558	7690428810535563	D:/POC/React-Learnings/React-Native/samplecodes/AwesomeProject/android/app/build/intermediates/cxx/Debug/483j5d12/obj/x86/libappmodules.so	1a1e265802982d82
+5	61	0	D:/POC/React-Learnings/React-Native/samplecodes/AwesomeProject/android/app/.cxx/Debug/483j5d12/x86/CMakeFiles/cmake.verify_globs	ba659546a5d69601
+7	196	0	D:/POC/React-Learnings/React-Native/samplecodes/AwesomeProject/android/app/.cxx/Debug/483j5d12/x86/CMakeFiles/cmake.verify_globs	ba659546a5d69601
